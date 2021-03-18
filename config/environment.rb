@@ -1,3 +1,4 @@
+require_relative "../models/text_analyzer.rb"
 ENV['SINATRA_ENV'] ||= "development"
 
 require 'bundler/setup'
